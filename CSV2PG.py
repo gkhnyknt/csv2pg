@@ -356,3 +356,4 @@ if __name__ == "__main__":
     main_root = ttk.Window(themename="darkly") 
     app = CsvToPostgresApp(main_root) # Sınıf adını CsvToPostgresApp olarak güncelledik
     main_root.mainloop()
+
